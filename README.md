@@ -1,16 +1,41 @@
-# osso_project
+# OSSO Project - Flutter Authentication UI
 
-A new Flutter project.
+A modern Flutter authentication UI project with beautiful design and smooth animations.
+
+## Features
+
+- Beautiful and modern UI design
+- Smooth animations and transitions
+- Sign In and Sign Up screens
+- Social media authentication options
+- Responsive layout
+- Custom theme support
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
+```bash
+git clone https://github.com/faizan01-tech/osso_project.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app:
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+Coming soon...
+
+## Contributing
+
+Feel free to contribute to this project by creating issues or submitting pull requests.
+
+## License
+
+This project is open source and available under the MIT License.
